@@ -12,4 +12,4 @@ jobs:
         uses: tsickert/discord-webhook@v7.0.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          filename: SA-Chaos.zip
+          filename: SA-CHAOS (8).zip
